@@ -2,8 +2,8 @@
 <h3 align="center">Passionate Developer | Web Enthusiast | Lifelong Learner</h3>
 
  <p align="center">
-    <img src="URL_OF_YOUR_GIF" alt="Animation of a boy typing on a laptop">
-  </p>
+    <img src="https://github.com/user-attachments/assets/03525ff0-c240-40e4-b99f-3d228f1a3850" alt="Animation" />
+ </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranay44444&label=Profile%20views&color=0e75b6&style=flat" alt="pranay44444" />
