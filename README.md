@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Chitare</h1>
 <h3 align="center">Passionate Developer | Web Enthusiast | Lifelong Learner</h3>
 
- <p align="center">
-    <img src="https://github.com/user-attachments/assets/03525ff0-c240-40e4-b99f-3d228f1a3850" alt="Animation" />
- </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9560fb0-6ef7-415e-accf-f9b5acf59b63" alt="Animation" align="right" width="390" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranay44444&label=Profile%20views&color=0e75b6&style=flat" alt="pranay44444" />
