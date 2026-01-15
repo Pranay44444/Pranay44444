@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Chitare</h1>
-<h3 align="center">Passionate Developer | Web Enthusiast | Lifelong Learner</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="390" />
@@ -21,18 +25,7 @@
 
 - ⚡ Fun fact: I’m always exploring new tools and ideas to sharpen my skills! 
 
-<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30"> Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/pranaychitare" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranaychitare" />
-  </a>
-  <a href="mailto:chitarepranay85@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chitarepranay85@gmail.com" />
-  </a>
-</p>
-
 <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"> Languages and Tools:</h3>
-
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -60,7 +53,16 @@
   </a>
 </p>
 
-<!-- Snake Game Animation -->
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30"> Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pranaychitare" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranaychitare" />
+  </a>
+  <a href="mailto:chitarepranay85@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chitarepranay85@gmail.com" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranay44444/Pranay44444/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
