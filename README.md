@@ -47,6 +47,29 @@
 
 <p align="center">
   <a href="https://holopin.io/@pranay44444" target="_blank">
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="100%" height="180" />
+  </a>
+</p>
+
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30"> Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pranaychitare" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranaychitare" />
+  </a>
+  <a href="mailto:chitarepranay85@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chitarepranay85@gmail.com" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranay44444/Pranay44444/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@pranay44444" target="_blank">
     <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="80%" />
   </a>
 </p>
