@@ -48,7 +48,7 @@
 <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" height="30"> Achievements:</h3>
 <p align="center">
   <a href="https://holopin.io/@pranay44444" target="_blank">
-    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="600" />
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="500" />
   </a>
 </p>
 
