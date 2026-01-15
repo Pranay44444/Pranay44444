@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@pranay44444" target="_blank">
-    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="100%" />
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="80%" />
   </a>
 </p>
 
