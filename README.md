@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="300"/>
 </p>
 
 <p align="left">
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@pranay44444" target="_blank">
-    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="100%" height="180" />
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="100%" height="170" />
   </a>
 </p>
 
