@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=pranay44444&label=Profile%20views&color=0e75b6&style=flat" alt="pranay44444" />
 </p>
 
-### 👨‍💻 About Me  
+### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30" height="30"> About Me  
 
 - 🧠 **Founder of [Demon Official Store](https://demonofficialstore.com)** – a platform for secure in-game top-ups.  
 
-- 🌱 I’m currently learning **React Native, Node.js and MySQL**
+- 🌱 I’m currently learning **DevOps, TypeScript and AWS**
 
 - 💬 Ask me about **Programming with Python and JavaScript**
 
@@ -21,40 +21,47 @@
 
 - ⚡ Fun fact: I’m always exploring new tools and ideas to sharpen my skills! 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30"> Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pranaychitare" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranaychitare" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranaychitare" />
+  </a>
+  <a href="mailto:chitarepranay85@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chitarepranay85@gmail.com" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"> Languages and Tools:</h3>
 
-<p align="left" style="display:inline-block; white-space:nowrap; margin:0; padding:0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="React Native" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Node.js" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Express.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Pandas" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="34" style="background:#fff;border-radius:8px;padding:6px;margin-right:6px;" alt="Figma" />
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" height="30"> Achievements:</h3>
+<p align="center">
+  <a href="https://holopin.io/@pranay44444" target="_blank">
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" />
+  </a>
+</p>
 
+<!-- Snake Game Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranay44444/Pranay44444/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<!-- Stats (side-by-side) -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay44444&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pranay44444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
