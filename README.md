@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pranay Chitare</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+I'm+Pranay+Chitare;Passionate+Full+Stack+Developer;Founder+of+Demon+Official+Store;Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -49,7 +48,7 @@
 <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" height="30"> Achievements:</h3>
 <p align="center">
   <a href="https://holopin.io/@pranay44444" target="_blank">
-    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" />
+    <img src="https://holopin.me/pranay44444" alt="Pranay's Holopin Badges" width="600" />
   </a>
 </p>
 
