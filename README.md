@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="390" />
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="250" />
 </p>
 
 <p align="left">
