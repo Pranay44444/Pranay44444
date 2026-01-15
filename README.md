@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer | Web Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9560fb0-6ef7-415e-accf-f9b5acf59b63" alt="Animation" align="right" width="390" />
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Animation" align="right" width="390" />
 </p>
 
 <p align="left">
